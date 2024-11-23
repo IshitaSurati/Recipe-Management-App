@@ -1,0 +1,2 @@
+# Recipe-Management-App
+This project is a Recipe Management Application built using React. It allows users to manage their recipes by adding, editing, and viewing them. The application features user authentication via JWT, enabling secure access to recipe data. Users can update recipe details including title, instructions, and image, with the data stored and retrieved from a backend API. The app uses React Router for navigation and localStorage for session management. The project aims to provide an intuitive interface for users to easily manage their recipe collection.
